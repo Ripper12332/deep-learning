@@ -5,9 +5,10 @@ keras
 scikit-learn
 matplotlib
 seaborn
-tensorflow
 joblib
 PyYaml
 streamlit
 h5py
 keras_preprocessing
+tensorflow
+

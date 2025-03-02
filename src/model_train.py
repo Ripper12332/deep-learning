@@ -11,6 +11,7 @@ from keras.applications.vgg16 import VGG16
 import tensorflow as tf
 
 
+
 def train_model(config_file):
     config = get_data(config_file)
     train = config['model']['trainable']
