@@ -11,5 +11,6 @@ streamlit
 h5py
 keras_preprocessing
 tensorflow
-mlflow
+
+opencv-python
 
